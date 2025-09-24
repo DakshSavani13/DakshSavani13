@@ -1,4 +1,4 @@
-# Hi there, I'm Savan 👋
+# Hi there, I'm  Daksh 👋
 
 🎓 Computer Engineering Student at CHARUSAT  
 💻 Passionate about Full-Stack Development 
