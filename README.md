@@ -1,6 +1,6 @@
 # Hi there, I'm  Daksh 👋
 
-🎓 Computer Engineering Student at CHARUSAT  
+🎓 Computer Science And Engineering Student at CHARUSAT  
 💻 Passionate about Full-Stack Development 
 
 
