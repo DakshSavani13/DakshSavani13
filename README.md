@@ -133,6 +133,14 @@ const daksh = {
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DakshSavani13&theme=algolia&no-frame=false&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -155,6 +163,18 @@ const daksh = {
 </td>
 </tr>
 </table>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DakshSavani13/DakshSavani13/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DakshSavani13/DakshSavani13/output/github-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/DakshSavani13/DakshSavani13/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
