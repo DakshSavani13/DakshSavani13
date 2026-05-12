@@ -12,14 +12,14 @@
 
 <!-- Badges Row -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DakshSavani13&style=flat-square&color=6e40c9&label=PROFILE+VIEWS" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=DakshSavani13&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="profile views"/>
   &nbsp;
   <a href="https://github.com/DakshSavani13?tab=followers">
-    <img src="https://img.shields.io/github/followers/DakshSavani13?style=flat-square&color=0891b2&label=FOLLOWERS&logo=github&logoColor=white" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/DakshSavani13?style=for-the-badge&color=0891b2&label=FOLLOWERS&logo=github&logoColor=white" alt="followers"/>
   </a>
   &nbsp;
-  <a href="https://github.com/DakshSavani13?tab=stars">
-    <img src="https://img.shields.io/github/stars/DakshSavani13?style=flat-square&color=fbbf24&label=STARS&logo=github&logoColor=white" alt="stars"/>
+  <a href="https://github.com/DakshSavani13?tab=repositories">
+    <img src="https://img.shields.io/github/stars/DakshSavani13?style=for-the-badge&color=fbbf24&label=STARS&logo=github&logoColor=white" alt="stars"/>
   </a>
 </div>
 
@@ -28,15 +28,15 @@
 <!-- Social Links -->
 <div align="center">
   <a href="https://www.linkedin.com/in/daksh-savani-18a2a72a2">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:savanidaksh7@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/DakshSavani13">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
@@ -83,7 +83,7 @@ const daksh = {
 
 ### ⚡ What I'm Up To
 
-- 🔭 Currently building **EmPay** — a full-featured HRMS platform
+- 🔭 Currently building **[EmPay](https://github.com/DakshSavani13/Empay)** — a full-featured HRMS platform
 - 🌱 Leveling up in **React**, **System Design**, and **Cloud Deployment**
 - 🤝 Open to collaborate on **Full-Stack** or **Open Source** projects
 - 💬 Ping me about **Node.js, Express, MongoDB, or JavaScript**
@@ -96,7 +96,7 @@ const daksh = {
 <div align="center">
 
 #### 🎯 Programming Languages
-<img src="https://skillicons.dev/icons?i=js,java,cpp,python,dart&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,java,cpp,python,c,dart&theme=dark" />
 
 #### 🎨 Frontend Technologies
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind&theme=dark" />
@@ -104,8 +104,8 @@ const daksh = {
 #### ⚙️ Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
-#### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
+#### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker&theme=dark" />
 
 </div>
 
@@ -144,25 +144,14 @@ const daksh = {
 ## 🚀 Featured Projects
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-  <a href="https://github.com/DakshSavani13/Empay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DakshSavani13&repo=Empay&theme=tokyonight&border_radius=10&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&icon_color=6e40c9" alt="EmPay"/>
-  </a>
-</td>
-<td align="center" width="33%">
-  <a href="https://github.com/DakshSavani13/FixItNow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DakshSavani13&repo=FixItNow&theme=tokyonight&border_radius=10&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&icon_color=6e40c9" alt="FixItNow"/>
-  </a>
-</td>
-<td align="center" width="33%">
-  <a href="https://github.com/DakshSavani13/Smiling-Code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DakshSavani13&repo=Smiling-Code&theme=tokyonight&border_radius=10&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&icon_color=6e40c9" alt="Smiling-Code"/>
-  </a>
-</td>
-</tr>
-</table>
+
+|  | Project | Description | Tech |
+|---|---------|-------------|------|
+| 💼 | **[EmPay — HRMS Platform](https://github.com/DakshSavani13/Empay)** | Full-featured HR Management System with payroll, attendance, leave tracking & analytics | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) |
+| 🔧 | **[FixItNow](https://github.com/DakshSavani13/FixItNow)** | Quick fix utility app for everyday problem solving | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 😊 | **[Smiling-Code](https://github.com/DakshSavani13/Smiling-Code)** | Fun coding project to make development more enjoyable | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🛡️ | **[SHIELDHER](https://github.com/DakshSavani13/SHIELDHER)** | Women's safety application built with Flutter | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+
 </div>
 
 ---
@@ -179,10 +168,26 @@ const daksh = {
 
 ---
 
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,60:1a1040,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
+  
+  ### 🤝 Let's Connect & Build Together!
+  
   <i>⭐ If you find my work interesting, feel free to star some repos and connect!</i>
+
+  <br/>
+  
+  ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-ff6b6b?style=for-the-badge&labelColor=0d1117)
+  
 </div>
