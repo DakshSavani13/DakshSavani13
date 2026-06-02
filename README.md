@@ -96,7 +96,7 @@ const daksh = {
 <div align="center">
 
 #### 🎯 Programming Languages
-<img src="https://skillicons.dev/icons?i=js,java,cpp,python,c,dart&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,java,cpp,python,c&theme=dark" />
 
 #### 🎨 Frontend Technologies
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind&theme=dark" />
@@ -105,7 +105,7 @@ const daksh = {
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
 #### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
 
 </div>
 
